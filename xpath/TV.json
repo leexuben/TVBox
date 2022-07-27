@@ -5,9 +5,9 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cCUzQS8vb2I0LmNuL2xpdmU="]}]}],
   //liveurl=http://ob4.cn/live
   "sites":[
-    {"key":"csp_QQ","name":"🐧🐧腾讯(SP)0727","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://shuyuan.miaogongzi.net/shuyuan/1658818783.json"},
-    {"key": "csp_IQIYI","name":"🥝🥝爱奇艺(SP)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://shuyuan.miaogongzi.net/shuyuan/1658926314.json"},
-    {"key":"csp_MGTV","name":"🥭🥭芒果(SP)感谢yx多jar版本","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://shuyuan.miaogongzi.net/shuyuan/1658818783.json"},
+    {"key":"csp_QQ","name":"🐧🐧腾讯(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658818783.json"},
+    {"key": "csp_IQIYI","name":"🥝🥝爱奇艺(SP)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658926314.json"},
+    {"key":"csp_MGTV","name":"🥭🥭芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658818783.json"},
     {"key":"csp_SP360","name":"🎾360(SP)07251314","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"酷猫","name":"🐞酷猫(SP)dxd维护","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"🍎小苹果(SP)dxd维护","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
