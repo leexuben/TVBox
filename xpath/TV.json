@@ -1,9 +1,7 @@
 {
-//"wallpaper":"https://picsum.photos/1280/720/?blur=9",  
 "wallpaper":"http://css.lc/api.php",   
 "spider":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/QQXQ.json",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cCUzQS8vb2I0LmNuL2xpdmU="]}]}],
-  //liveurl=http://ob4.cn/live
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9sZWV4dWJlbi9UVkJveC9tYWluL3R4dC90djg4LnR4dA=="]}]}],
   "sites":[
     {"key":"csp_QQ","name":"🐧🐧腾讯(SP)🇨🇳","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658818783.json"},
     {"key": "csp_IQIYI","name":"🥝🥝爱奇艺(SP)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658926314.json"},
