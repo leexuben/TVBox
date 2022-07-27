@@ -3,9 +3,9 @@
 "spider":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/QQXQ.json",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9sZWV4dWJlbi9UVkJveC9tYWluL3R4dC90djg4LnR4dA=="]}]}],
   "sites":[
-    {"key":"csp_QQ","name":"🐧🐧腾讯(SP)🇨🇳","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658818783.json"},
-    {"key": "csp_IQIYI","name":"🥝🥝爱奇艺(SP)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658926314.json"},
-    {"key":"csp_MGTV","name":"🥭🥭芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658818783.json"},
+    {"key":"csp_QQ","name":"🐧🐧腾讯(SP)🇨🇳","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"spider":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658818783.json"},
+    {"key": "csp_IQIYI","name":"🥝🥝爱奇艺(SP)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"spider":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658926314.json"},
+    {"key":"csp_MGTV","name":"🥭🥭芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"spider":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/1658818783.json"},
     {"key":"Bili","name":"B站","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"},
     {"key": "csp_Bliyc","name":"演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
