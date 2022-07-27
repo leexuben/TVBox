@@ -13,6 +13,13 @@
     {"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blidw","name":"动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blixq","name":"戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "少儿","name": "🅰️少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/TVBox/main/json/SQJY.json"},
+    {"key": "csp_QQ","name": "🐞腾讯视频🇨🇳🇨🇳","type": 3,"api": "csp_QQ","searchable": 1, "quickSearch": 1,"filterable": 1},
+    {"key": "Bili","name": "🅱️哔哩套餐🅱️","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/TVBox/main/json/BILIBILI.json"},
+    {"key": "演唱会","name": "🅰️云星演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/TVBox/main/json/YCH.json"},
+    {"key": "戏曲","name": "🅰️云星戏曲","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/TVBox/main/json/XQ.json"},
+    {"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/TVBox/main/json/MV.json"},
+   
     {"key":"csp_SP360","name":"🎾360(SP)07251314","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"酷猫","name":"🐞酷猫(SP)dxd维护","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LiteApple","name":"🍎小苹果(SP)dxd维护","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
