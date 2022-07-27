@@ -1,6 +1,6 @@
 {
 "spider":"https://raw.fastgit.org/leexuben/TVBox/main/jar/QQ77.jar",
-"spider":"https://raw.fastgit.org/leexuben/TVBox/main/jar/QQXQ.jar",
+"spider":"https://raw.fastgit.org/leexuben/TVBox/main/jar/QQXQ.json",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9sZWV4dWJlbi9UVkJveC9tYWluL3R4dC90djg4LnR4dA=="]}]}],
 "sites": [
 //{"key": "少儿","name": "🅰️少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/TVBox/main/json/SQJY.json"},
