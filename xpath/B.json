@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.fastgit.org/leexuben/TVBox/main/jar/XQ.jar",
+"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/0712.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9sZWV4dWJlbi9UVkJveC9tYWluL3R4dC90djg4LnR4dA=="]}]}],
 "wallpaper":"http://css.lc/api.php",
