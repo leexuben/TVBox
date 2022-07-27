@@ -1,7 +1,7 @@
 {
 //"wallpaper":"https://picsum.photos/1280/720/?blur=9",  
 "wallpaper":"http://css.lc/api.php",   
-"spider":"https://raw.fastgit.org/leexuben/TVBox/main/jar/QQXQ.json",
+"spider":"https://raw.githubusercontents.com/leexuben/TVBox/main/jar/QQXQ.json",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cCUzQS8vb2I0LmNuL2xpdmU="]}]}],
   //liveurl=http://ob4.cn/live
   "sites":[
