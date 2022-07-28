@@ -3,7 +3,7 @@
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvbGVleHViZW4vbWFzdGVyL21haW4vdHh0L3R2ODgudHh0"]}]}],
 "sites": [
-//{"key": "少儿","name": "🅰️少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/master/main/json/SQJY.json"},
+{"key": "少儿","name": "🅰️少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/master/main/json/SQJY.json"},
 {"key": "csp_QQ","name": "🐞腾讯视频🇨🇳🇨🇳","type": 3,"api": "csp_QQ","searchable": 1, "quickSearch": 1,"filterable": 1},
 {"key": "Bili","name": "🅱️哔哩套餐🅱️","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/master/main/json/BILIBILI.json"},
 {"key": "演唱会","name": "🅰️云星演唱会","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/leexuben/master/main/json/YCH.json"},
